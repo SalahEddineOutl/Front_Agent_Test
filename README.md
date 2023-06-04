@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ClientApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
@@ -29,3 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # Jabakallah_Front_Agent
 >>>>>>> cd8eec112bf4688534c0a0b741579260ea47d9b6
+=======
+# Front_Agent_Test
+test
+>>>>>>> d4434016f16036658821d0f1c1ce9b7d4b74fdd4

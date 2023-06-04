@@ -1,0 +1,42 @@
+.container-fluid {
+    padding: 0% 0% 7%;
+  }
+  .col {
+    margin: 0% !important;
+    padding: 0% !important;
+  }
+  .content {
+    padding: 5%;
+    text-align: left;
+  }
+  .content2 {
+    padding-top: 4%;
+  }
+  .agent-profile
+   { width: 500px;
+     height: 500px;
+      padding: 50px 40px; 
+      margin-top: 50px;
+       margin-bottom: 20px;
+       margin-left: 300px; color: #040404;
+        border: none !important; box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+         background: rgb(254, 130, 43);
+          background: linear-gradient( 36deg, rgba(254, 130, 43, 1) 0%, rgba(210, 89, 4, 1) 100% );
+           color: #000000; border: none !important; box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2);
+            background: rgb(254, 130, 43); background: linear-gradient( 36deg, rgba(254, 130, 43, 1) 0%, rgba(210, 89, 4, 1) 100% ); 
+        }
+        p{
+            color: #000000;
+            text-align: center;
+        }
+        img { 
+            width: 200px;
+             height: 200px;
+              border-radius: 50%;
+               margin-bottom: 10px; 
+               font-size: larger;
+         }
+         h3{
+            margin-top: 50px;
+         }
+   
